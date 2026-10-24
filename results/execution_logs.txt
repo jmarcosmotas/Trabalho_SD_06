@@ -1,0 +1,120 @@
+[INÍCIO] leitura_leve - Repetição 01/10
+[FIM] leitura_leve - Repetição 01/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 02/10
+[FIM] leitura_leve - Repetição 02/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 03/10
+[FIM] leitura_leve - Repetição 03/10 (código: 1)
+[INÍCIO] leitura_leve - Repetição 04/10
+[FIM] leitura_leve - Repetição 04/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 05/10
+[FIM] leitura_leve - Repetição 05/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 06/10
+[FIM] leitura_leve - Repetição 06/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 07/10
+[FIM] leitura_leve - Repetição 07/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 08/10
+[FIM] leitura_leve - Repetição 08/10 (código: 0)
+[INÍCIO] leitura_leve - Repetição 09/10
+[FIM] leitura_leve - Repetição 09/10 (código: 1)
+[INÍCIO] leitura_leve - Repetição 10/10
+[FIM] leitura_leve - Repetição 10/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 01/10
+[FIM] leitura_moderada - Repetição 01/10 (código: 1)
+[INÍCIO] leitura_moderada - Repetição 02/10
+[FIM] leitura_moderada - Repetição 02/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 03/10
+[FIM] leitura_moderada - Repetição 03/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 04/10
+[FIM] leitura_moderada - Repetição 04/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 05/10
+[FIM] leitura_moderada - Repetição 05/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 06/10
+[FIM] leitura_moderada - Repetição 06/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 07/10
+[FIM] leitura_moderada - Repetição 07/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 08/10
+[FIM] leitura_moderada - Repetição 08/10 (código: 0)
+[INÍCIO] leitura_moderada - Repetição 09/10
+[FIM] leitura_moderada - Repetição 09/10 (código: 1)
+[INÍCIO] leitura_moderada - Repetição 10/10
+[FIM] leitura_moderada - Repetição 10/10 (código: 0)
+[INÍCIO] leitura_elevada - Repetição 01/10
+[FIM] leitura_elevada - Repetição 01/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 02/10
+[FIM] leitura_elevada - Repetição 02/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 03/10
+[FIM] leitura_elevada - Repetição 03/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 04/10
+[FIM] leitura_elevada - Repetição 04/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 05/10
+[FIM] leitura_elevada - Repetição 05/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 06/10
+[FIM] leitura_elevada - Repetição 06/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 07/10
+[FIM] leitura_elevada - Repetição 07/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 08/10
+[FIM] leitura_elevada - Repetição 08/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 09/10
+[FIM] leitura_elevada - Repetição 09/10 (código: 1)
+[INÍCIO] leitura_elevada - Repetição 10/10
+[FIM] leitura_elevada - Repetição 10/10 (código: 1)
+[INÍCIO] escrita_leve - Repetição 01/10
+[FIM] escrita_leve - Repetição 01/10 (código: 0)
+[INÍCIO] escrita_leve - Repetição 02/10
+[FIM] escrita_leve - Repetição 02/10 (código: 0)
+[INÍCIO] escrita_leve - Repetição 03/10
+[FIM] escrita_leve - Repetição 03/10 (código: 0)
+[INÍCIO] escrita_leve - Repetição 04/10
+[FIM] escrita_leve - Repetição 04/10 (código: 0)
+[INÍCIO] escrita_leve - Repetição 05/10
+[FIM] escrita_leve - Repetição 05/10 (código: 1)
+[INÍCIO] escrita_leve - Repetição 06/10
+[FIM] escrita_leve - Repetição 06/10 (código: 1)
+[INÍCIO] escrita_leve - Repetição 07/10
+[FIM] escrita_leve - Repetição 07/10 (código: 1)
+[INÍCIO] escrita_leve - Repetição 08/10
+[FIM] escrita_leve - Repetição 08/10 (código: 1)
+[INÍCIO] escrita_leve - Repetição 09/10
+[FIM] escrita_leve - Repetição 09/10 (código: 1)
+[INÍCIO] escrita_leve - Repetição 10/10
+[FIM] escrita_leve - Repetição 10/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 01/10
+[FIM] escrita_moderada - Repetição 01/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 02/10
+[FIM] escrita_moderada - Repetição 02/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 03/10
+[FIM] escrita_moderada - Repetição 03/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 04/10
+[FIM] escrita_moderada - Repetição 04/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 05/10
+[FIM] escrita_moderada - Repetição 05/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 06/10
+[FIM] escrita_moderada - Repetição 06/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 07/10
+[FIM] escrita_moderada - Repetição 07/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 08/10
+[FIM] escrita_moderada - Repetição 08/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 09/10
+[FIM] escrita_moderada - Repetição 09/10 (código: 1)
+[INÍCIO] escrita_moderada - Repetição 10/10
+[FIM] escrita_moderada - Repetição 10/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 01/10
+[FIM] escrita_elevada - Repetição 01/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 02/10
+[FIM] escrita_elevada - Repetição 02/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 03/10
+[FIM] escrita_elevada - Repetição 03/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 04/10
+[FIM] escrita_elevada - Repetição 04/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 05/10
+[FIM] escrita_elevada - Repetição 05/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 06/10
+[FIM] escrita_elevada - Repetição 06/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 07/10
+[FIM] escrita_elevada - Repetição 07/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 08/10
+[FIM] escrita_elevada - Repetição 08/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 09/10
+[FIM] escrita_elevada - Repetição 09/10 (código: 1)
+[INÍCIO] escrita_elevada - Repetição 10/10
+[FIM] escrita_elevada - Repetição 10/10 (código: 1)
